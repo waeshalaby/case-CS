@@ -35,3 +35,70 @@
 | Scroll Depth   | 40.7%                | 47.7%             | ⚠️ Content not fully consumed        |
 | Time Spent     | 38.5s                | 54.6s             | Buyers stay longer = better layout  |
 | Views/Visit    | 2.07                 | 4.67              | Buyers revisit more before buying   |
+
+
+# 🎤 How to Present User Behavior on the Product Page
+
+## 🧭 Slide Title: User Behavior on Product Page – Full Picture
+
+Use these 5 talking points with clear narrative flow to present Slide 1 confidently.
+
+---
+
+### 🧠 1. “We have a major drop-off issue on the Product Page”
+
+> “From journey analysis and bounce data, we saw that over 70% of non-buyers leave the product page immediately. That’s our biggest red flag — people land, don’t engage, and leave.”
+
+- **Evidence**:
+  - 70% bounce rate – *Page Comparator*
+  - Short time spent (38.5s) – *Page Metrics Without Transaction*
+  - Product exits early – *Journey Map (No Transactions)*
+
+---
+
+### 🧠 2. “Buyers behave completely differently — and we can learn from them”
+
+> “People who buy scroll more, spend more time, and revisit the product page multiple times. This means the content works — but only for a subset of users.”
+
+- **Evidence**:
+  - Scroll Depth: 47.7% (buyers) vs 40.7% (non-buyers)
+  - Time Spent: 54.6s vs 38.5s
+  - Views/Visit: 4.67 vs 2.07 – *Page Metrics With Transactions*
+
+---
+
+### 🧠 3. “Most non-buyers never reach the cart or checkout”
+
+> “When we compare journeys with and without transactions, we can see that non-buyers exit *before* they even enter the checkout flow. That means our product page isn’t doing its job — it’s a dead-end for most users.”
+
+- **Evidence**:
+  - No checkout steps in right-hand journey map – *User Journey Without Transactions*
+  - Funnel breaks after product view – *Sunburst chart (No Transaction)*
+
+---
+
+### 🧠 4. “Low scroll and activity rates show we’re losing attention early”
+
+> “Only 40% of the product page is being viewed on average. Most users don’t even reach the details that usually convert — like delivery info, reviews, or sizing.”
+
+- **Evidence**:
+  - Scroll Depth: 40.7% – *Page Comparator*
+  - Activity Rate: 22.7% – *Page Metrics Without Transactions*
+
+---
+
+### 🧠 5. “Speed matters — even 0.1s makes a difference”
+
+> “Buyers experience slightly faster page loads (1.98s vs 2.06s). It might seem small, but that friction adds up, especially on mobile. Speed correlates with trust and drop-off.”
+
+- **Evidence**:
+  - Load Time: 1.98s vs 2.06s – *Page Metrics Comparison*
+
+---
+
+### ✅ Final Wrap-Up
+
+> “So, to summarize: we’re losing a huge portion of users at the product page. The content works for buyers, but it’s not framed properly for everyone else. Our next step should be to take what works for buyers — and bring it up front, faster, and clearer for everyone.”
+
+---
+
